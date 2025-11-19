@@ -1,0 +1,5 @@
+{
+  "name": "Windows 98",
+  "description": "A nostalgic Windows 98 desktop experience built in React. Features classic UI elements and a functional 'Error' message generator powered by the Gemini API.",
+  "requestFramePermissions": []
+}
